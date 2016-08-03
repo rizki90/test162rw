@@ -1,3 +1,9 @@
 ALL:
-Harap membuat sebuah folder dalam Sandbox; lalu buat sebuah berkas.
+- Tulis nama anda + akun di bawah ini
+- Dalam Sandbox, buat folder dengan nama akun anda.
+- Buat berkas apa saja dalam folder tersebut.
+Wed Aug  3 10:56:20 WIB 2016
+==================================================================
+Rahmat M. Samik-Ibrahim (rms46)
+
 
