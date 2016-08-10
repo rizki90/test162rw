@@ -2,4 +2,5 @@ Harap tulis tanggal/jam dan nama anda disini:
 Fri Aug  5 13:17:29 WIB 2016 Rahmat M. Samik-Ibrahim
 Sat Aug 6 12:24:40 WIB 2016 Intan Dwi Hapsari
 Tue Aug 9 12:33:06 WIB 2016 Anindhita Dwi Saraswati
+Wed Aug 10 9:46:20 WIB 2016 Muthia Nabila
 
