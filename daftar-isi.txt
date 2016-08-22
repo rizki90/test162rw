@@ -52,6 +52,4 @@ test.txt
 ./rizki90-test162rw/SandBox/rizki90:
 Hello.txt
 
-./rizki90-test162rw/SandBox/rms46:
-hello.txt
 
